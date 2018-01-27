@@ -7,4 +7,5 @@ Intro to Git and Github Assignment
 <li>what markdown is</li>
 <li>how CSS works</li>
 <li>what frameworks are</li>
-<li>the command line, although I still need to learn more :)</li>
+<li>the command line, although I still need to learn more :)</li></ol>
+
